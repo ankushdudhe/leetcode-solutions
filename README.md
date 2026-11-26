@@ -11,4 +11,9 @@ all leetcode questions still here
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ankushdudhe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/ankushdudhe/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ankushdudhe/leetcode-solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
