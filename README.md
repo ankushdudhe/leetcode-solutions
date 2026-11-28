@@ -6,6 +6,7 @@ all leetcode questions still here
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ankushdudhe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/ankushdudhe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -16,4 +17,12 @@ all leetcode questions still here
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/ankushdudhe/leetcode-solutions/tree/master/3360-stone-removal-game) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankushdudhe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ankushdudhe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
