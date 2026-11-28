@@ -7,6 +7,7 @@ all leetcode questions still here
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankushdudhe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [1470-shuffle-the-array](https://github.com/ankushdudhe/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ankushdudhe/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
